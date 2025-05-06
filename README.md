@@ -4,16 +4,16 @@ I'm a Frontend Developer who loves turning coffee ☕ into code 💻. I speciali
 
 **Here's a little about my tech stack:**
 
-* **Languages:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> `Javascript`, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> `Typescript`, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> `HTML`, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/> `CSS`
-* **Frameworks/Libraries:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> `ReactJS`, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="20" height="20"/> `NextJS`, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> `Redux`, <img src="https://mui.com/static/favicon.ico" alt="material-ui" width="20" height="20"/> `MUI`, `ANTD`, `React Bootstrap`, `SASS`, <img src="https://tailwindcss.com/favicon.svg" alt="tailwindcss" width="20" height="20"/> `Tailwind CSS`
+* **Languages:** `Javascript`, `Typescript`, `HTML`, `CSS`
+* **Frameworks/Libraries:** `ReactJS`, `NextJS`, `Redux`, `MUI`, `ANTD`, `React Bootstrap`, `SASS`, `Tailwind CSS`
 * **API Development:** `RESTful API`, `GraphQL`
-* **Database:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> `PostgreSQL`, `Prisma`
+* **Database:** `PostgreSQL`, `Prisma`
 * **Authentication:** `NextAuth.js`
 * **Maps:** `Google Maps API`
 * **UI Components**: `Radix UI`, `Shadcn UI`
 * **Form Handling**: `React Hook Form`, `Zod`
-* **Testing:** <img src="https://jestjs.io/img/favicon.png" alt="jest" width="20" height="20"/> `Jest`
-* **Version Control:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="20" height="20"/> `Git`, `Bitbucket`
+* **Testing:** `Jest`
+* **Version Control:** `Git`, `Bitbucket`
 * **Design Tools:** `Figma-to-HTML`
 * **Other Goodies:** `Yup`
 
