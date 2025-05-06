@@ -1,39 +1,51 @@
-### Hey there, I'm Uttam! 👋
+<!-- GitHub Profile README for Uttam -->
 
-I'm a Frontend Developer who loves turning coffee ☕ into code 💻. I specialize in crafting web experiences that are both beautiful 🎨 and blazing fast 🚀.
+<h1 align="center">Hi 👋, I'm Uttam</h1>
+<h3 align="center">Frontend Developer | Tech Explorer </h3>
 
-**Here's a little about my tech stack:**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-* **Languages:** `Javascript`, `Typescript`, `HTML`, `CSS`
-* **Frameworks/Libraries:** `ReactJS`, `NextJS`, `Redux`, `MUI`, `ANTD`, `React Bootstrap`, `SASS`, `Tailwind CSS`
-* **API Development:** `RESTful API`, `GraphQL`
-* **Database:** `PostgreSQL`, `Prisma`
-* **Authentication:** `NextAuth.js`
-* **Maps:** `Google Maps API`
-* **UI Components**: `Radix UI`, `Shadcn UI`
-* **Form Handling**: `React Hook Form`, `Zod`
-* **Testing:** `Jest`
-* **Version Control:** `Git`, `Bitbucket`
-* **Design Tools:** `Figma-to-HTML`
-* **Other Goodies:** `Yup`
+---
 
-**What I've been up to:**
+### 🔧 Tech Stack
 
-I've been busy building and architecting web applications, from e-commerce platforms 🛒 to live streaming services 📹. I'm all about writing clean, scalable, and maintainable code 🛠️ that not only meets the requirements but also delights the users 😄. I've had the pleasure of:
+- 💻 Frontend: React.js, Next.js, TypeScript, Redux, Tailwind CSS, MUI, SCSS
+- 🎨 UI/UX: Shadcn UI, Radix UI, Ant Design, CSS Modules
+- 🔒 Auth: NextAuth.js
+- 🔌 API: REST, GraphQL, Axios
+- 🗃️ Database: PostgreSQL, Prisma ORM
+- 🧪 Testing: Jest, React Testing Library
+- 🛠️ Tools: Git, Bitbucket, Lighthouse, Chrome DevTools
 
-* Spearheading 🚀 the conversion of Figma designs 🎨 to HTML 🌐, including logic development 💡, API integration 🔗, test case creation ✅, code refactoring ♻️, and optimization for reusability 🔄.
-* Engineering 🛠️ various RESTful 🔗 and GraphQL ❓ APIs, along with comprehensive database design 🗄️.
-* Developing and implementing frameworks 🏗️ such as CSS 🎨, Bootstrap 👢, ANTD 🐜, React Bootstrap 👢, and SCSS 💅 for cohesive and scalable design solutions 🧩.
-* Collaborating effectively 🤝 with engineering teams 🧑‍💻 to conceptualize 💡, design 🎨, and launch 🚀 new features ✨, ensuring alignment with project goals 🎯.
-* Working closely 🤝 with graphic designers 🎨 to translate visual designs 🖼️ into functional, high-quality user interfaces 🖥️.
-* Architecting 🏗️ the overall structure of web applications 🌐, focusing on scalability 📈, performance ⚡, and maintainability 🛠️.
-* Ensuring high standards of quality ✅ and responsiveness ⏱️ across applications 🌐, meeting or exceeding performance benchmarks 🏆.
+---
 
+### 🌱 Currently Learning
+- Advanced TypeScript patterns
+- Backend architecture with Node.js
+- Game development (WebGL)
 
-**When I'm not coding, you'll find me:**
+----
 
-* Gaming 🎮
-* Learning new skills 📚
-* Gyimg 🏋️‍♂️
+### 🌱 Intrested Learning in
+- Graphic designing
+- Game development (WebGL)
 
-Feel free to connect with me! Let's build something amazing together. 🚀✨
+---
+
+### 💬 Let's Connect!
+
+- 📧 uttamdanidhariya@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/uttam-danidhariya-869247212)
+
+---
+
+### 🎮 Fun Fact
+
+> I lift code and weights 💪, and I’m always leveling up!
+
